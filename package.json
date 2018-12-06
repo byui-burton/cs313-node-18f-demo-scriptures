@@ -1,0 +1,15 @@
+{
+  "name": "cs313-node-18f-demo-scriptures",
+  "version": "1.0.0",
+  "description": "Scripture Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
