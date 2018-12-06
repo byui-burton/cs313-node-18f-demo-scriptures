@@ -1,5 +1,6 @@
 const express = require("express");
 const path = require("path");
+require('dotenv').config();
 
 const topicController = require("./controllers/topicController.js");
 const scriptureController = require("./controllers/scriptureController.js");
